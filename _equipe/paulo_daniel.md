@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Paulo Daniel Souza Da Silva
-img: assets/img/equipe/paulo_souza.jpg
+img: assets/img/equipe/paulo_souza.jpeg
 funcao: Bolsista tester
 projeto: Phoebus 
 desde: 06/04/2023
