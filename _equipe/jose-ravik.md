@@ -4,7 +4,7 @@ name: José Ravik Ferreira de Moraes
 img: assets/img/equipe/jose_ravik.jpg
 funcao: Bolsista Dev
 projeto: Phoebus 
-desde: Abril - 2023
+desde: 01/04/2023
 saiu: #data de fim
 description: Estudante da Universidade Federal da Paraíba, recentemente trabalhando como bolsista na Phoebus na equipe de PhAST Server, atuando como Dev Full Stack, desenvolvendo nas linguagens Java e Angular.
 home_page: # home page
