@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Jackson Anderson Gomes dos Santos SIlva
-img: assets/img/equipe/profile_ayty.jpg
+img: assets/img/equipe/jackson_anderson.jpg
 funcao: Bolsista Dev
 projeto: Phoebus
 desde: 01/09/2021
