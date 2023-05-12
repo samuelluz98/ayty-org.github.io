@@ -4,7 +4,7 @@ name: Filipe de Lima Vaz Monteiro
 img: assets/img/equipe/filipe_lima.jpg
 funcao: bolsista dev
 projeto: Phoebus 
-desde: 06/04/20023
+desde: 06/04/2023
 saiu: #data de fim
 description: Filipe de Lima Vaz é estudante da Universidade Federal da Paraíba. Atualmente faz parte da equipe Captura, onde desenvolve suas habilidades como desenvolvedor FullStack, trabalhando com as linguagens programação C e Javascript e as linguagens de marcação HTML e CSS, tem como objetivo uma carreira como developer FullStack.
 home_page: # home page
