@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Kelnner Magno Lopes de Almeida
-img: assets/img/equipe/profile_ayty.jpg
+img: assets/img/equipe/kelnner_lopes.jpeg
 funcao: Bolsista Testador #Bolsista Testador, Bolsista Dev, Technical Debt
 projeto: Phoebus
 desde: abril
