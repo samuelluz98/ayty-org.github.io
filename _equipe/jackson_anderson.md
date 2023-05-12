@@ -1,7 +1,7 @@
 ---
 layout: member
-name: Jackson Anderson Gomes dos Santos SIlva
-img: assets/img/equipe/jackson_anderson.jpg
+name: Jackson Anderson Gomes dos Santos Silva
+img: assets/img/equipe/jackson_anderson.jpeg
 funcao: Bolsista Dev
 projeto: Phoebus
 desde: 01/09/2021
