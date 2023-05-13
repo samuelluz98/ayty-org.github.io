@@ -1,7 +1,7 @@
 ---
 layout: member
 name: João Heitor Lopes da Silva #Nome completo
-img: assets/img/equipe/profile_ayty.jpg
+img: assets/img/equipe/joao_heitor.jpg
 funcao: Bolsista Dev #Bolsista Testador, Bolsista Dev, Technical Debt
 projeto: Phoebus #ESIG,SNET,Universi.me,Engenharia.Software
 desde: 01/08/2022 #data de início
