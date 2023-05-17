@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Jonas Victor ALves da Silva #Nome completo
-img: assets/img/equipe/jonas_victor.jpg
+img: assets/img/equipe/jonas_victor.jpeg
 funcao: Bolsista Dev #Bolsista Testador, Bolsista Dev, Technical Debt
 projeto: SNET #ESIG,SNET,Universi.me,Engenharia.Software
 desde: 01/05/2022
