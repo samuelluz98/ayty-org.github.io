@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Lucas Cardoso dos Santos
-img: assets/img/equipe/lucas_cardoso.jpg
+img: assets/img/equipe/lucas_cardoso.png
 funcao: Software Developer bolsista
 projeto: Phoebus
 desde: 18/03/2021
