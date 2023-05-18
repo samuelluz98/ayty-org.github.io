@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Nome do aluno Roberta de Lima Ribeiro
+name: Roberta de Lima Ribeiro
 img: assets/img/equipe/roberta_lima.jpg
 funcao: Bolsista Tester
 projeto: Phoebus
