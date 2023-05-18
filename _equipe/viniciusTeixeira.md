@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Vinicius Teixeira Fernandes
-img: assets/img/equipe/viniciusTeixeira.jpeg
+img: assets/img/equipe/viniciusTeixeira.jpg
 funcao: bolsista dev
 projeto: Phoebus 
 desde: 06/04/2023

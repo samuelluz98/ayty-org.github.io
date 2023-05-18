@@ -13,5 +13,5 @@ linkedin: #LinkedIn
 instagram: #Instagram 
 twitter: #Twitter
 importance: 4
-category: Alunos #Professores, Colaboradores externos, Alunos, Ex-alunos
+category: #Alunos #Professores, Colaboradores externos, Alunos, Ex-alunos
 ---

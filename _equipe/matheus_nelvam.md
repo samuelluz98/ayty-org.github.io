@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Matheus Nelvam
-img: assets/img/equipe/matheus_nelvam.jpeg
+img: assets/img/equipe/matheus_nelvam.jpg
 funcao: Bolsista Dev
 projeto: SNET
 desde: 21/04/2022
