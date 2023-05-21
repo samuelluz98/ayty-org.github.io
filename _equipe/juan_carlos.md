@@ -2,7 +2,7 @@
 layout: member
 name: Juan Carlos Pacífico de Araújo
 img: assets/img/equipe/juan_carlos.jpg
-funcao: Phast Server Adiq
+funcao: Bolsista Tester
 projeto: Phoebus
 desde: Abril - 2022
 saiu: #data de fim
