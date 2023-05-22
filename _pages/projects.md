@@ -2,7 +2,7 @@
 layout: page
 title: Projetos
 permalink: /projetos/
-description: A growing collection of your cool projects.
+description: Projetos em colaboração com empresas, de pesquisa e extensão.
 nav: true
 nav_order: 3
 display_categories: [Empresas, Pesquisa, Extensão, Encerrados]
