@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ayty-org.github.io/sitemap.xml
+Sitemap: https://ayty.org/sitemap.xml
