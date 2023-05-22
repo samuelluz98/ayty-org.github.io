@@ -1,132 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ayty.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ayty.org/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-22T01:32:01+00:00</updated><id>https://ayty.org/feed.xml</id><title type="html">AYTY</title><subtitle>AYTY - Laboratório de Engenharia de Software Aplicada
-</subtitle><entry><title type="html">4 vagas para o projeto com a ESIG e Quark</title><link href="https://ayty.org/blog/2023/edital_esig-quark_jun_2023/" rel="alternate" type="text/html" title="4 vagas para o projeto com a ESIG e Quark" /><published>2023-05-21T00:00:00+00:00</published><updated>2023-05-21T00:00:00+00:00</updated><id>https://ayty.org/blog/2023/edital_esig-quark_jun_2023</id><content type="html" xml:base="https://ayty.org/blog/2023/edital_esig-quark_jun_2023/"><![CDATA[<p><strong>Data</strong>: 22/05/2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ayty.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ayty.org/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-22T09:46:09+00:00</updated><id>https://ayty.org/feed.xml</id><title type="html">AYTY</title><subtitle>AYTY - Laboratório de Engenharia de Software Aplicada
+</subtitle><entry><title type="html">4 vagas para o projeto com a ESIG e Quark</title><link href="https://ayty.org/blog/2023/edital_esig-quark_jun_2023/" rel="alternate" type="text/html" title="4 vagas para o projeto com a ESIG e Quark" /><published>2023-05-21T00:00:00+00:00</published><updated>2023-05-21T00:00:00+00:00</updated><id>https://ayty.org/blog/2023/edital_esig-quark_jun_2023</id><content type="html" xml:base="https://ayty.org/blog/2023/edital_esig-quark_jun_2023/"><![CDATA[<p><strong>Título</strong>: Aberto edital de seleção de bolsistas para parceria ESIG, Quark e AYTY</p>
 
-<p>Edital de seleção de 4 (quatro) bolsistas para projeto em parceria com as
-empresas ESIG e Quark.</p>
+<p>O laboratório AYTY, do departamento de ciências exatas da UFPB, juntamente com as empresas ESIG e Quark, lançou um edital para a seleção de 4 bolsistas que participarão de um projeto conjunto. Os selecionados terão a oportunidade de aprimorar suas habilidades em um ambiente real de desenvolvimento de software, interagindo diretamente com profissionais das equipes das empresas.</p>
 
-<p><strong>Atenção! LEIA ATENTAMENTE todas as informações e inscreva-se no link
-ao final deste edital.</strong></p>
+<p>O projeto, que atua nas áreas de desenvolvimento de sistemas para saúde, educação, gestão administrativa e gerência de dívidas técnicas, é voltado para alunos dos cursos de Sistemas de Informação e Computação. Não há restrição de período para concorrer às vagas, porém o conhecimento de programação Java e banco de dados é desejável.</p>
 
-<h2 id="sobre-o-projeto">Sobre o projeto</h2>
+<p>Os bolsistas selecionados se comprometerão com uma carga horária semanal de 20 horas, de segunda a sexta-feira, durante o período das 8h até as 18h. Além de ganhar experiência prática, os participantes receberão uma bolsa no valor de R$ 800,00 mensais.</p>
 
-<p>Trata-se de um projeto de pesquisa, desenvolvimento e capacitação que
-envolve as empresas <a href="https://www.esig.com.br/">ESIG</a>,
-<a href="http://quark.tec.br/">Quark</a> e o laboratório <strong>AYTY</strong>, do departamento
-de ciências exatas / Campus IV / UFPB. O projeto atua nas áreas de
-desenvolvimento de sistemas para as áreas de saúde, educação, gestão
-administrativa e gerência de dívidas técnicas.</p>
+<p>O processo seletivo será dividido em três etapas: preenchimento de um formulário e triagem dos alunos, entrevistas e uma avaliação técnica de um projeto realizada pela equipe da empresa.</p>
 
-<p>Ao longo do projeto os alunos e alunas dos cursos de <strong>SI e Computação</strong>
-terão a oportunidade de aprender tecnologias e competências
-profissionais em um ambiente real de desenvolvimento de software, além
-de interagir diretamente com profissionais das equipes da empresa. As
-pessoas selecionadas também participarão de capacitações e outros
-eventos promovidos pelas empresas.</p>
-
-<p>Conheça mais sobre as empresas através dos links: <a href="https://esig.group/#sobre">ESIG
-Group</a>, <a href="https://www.esig.com.br/">ESIG</a>,
-<a href="https://quark.tec.br/">Quark</a>.</p>
+<p>O calendário do processo seletivo segue o seguinte cronograma:</p>
 
 <ul>
-  <li>Professor coordenador do projeto: <a href="/equipe/rodrigor/">Prof. Rodrigo
-Rebouças</a></li>
-  <li>Professor orientador dos estudantes: <a href="/equipe/marcuswac/">Prof. Marcus Carvalho</a></li>
+  <li>Etapa 1: Inscrições - análise de currículo, até 26 de maio às 18h.</li>
+  <li>Divulgação do resultado da 1ª etapa, 29 de maio.</li>
+  <li>Etapa 2: Entrevistas, de 30 de maio a 2 de junho, das 14h às 18h.</li>
+  <li>Divulgação do resultado da 2ª etapa, 2 de junho.</li>
+  <li>Etapa 3: Avaliação técnica, de 3 a 9 de junho.</li>
+  <li>Divulgação do resultado final, 16 de junho.</li>
 </ul>
 
-<h2 id="vagas-carga-horária-e-valor-de-bolsa">Vagas, carga horária e valor de bolsa</h2>
+<p>O início das atividades no projeto está previsto para 3 de julho. As inscrições podem ser feitas através do link disponível no edital.</p>
 
-<ul>
-  <li><strong>Para aluno(a)s de SI e LCC:</strong>
-    <ul>
-      <li>Quantidade de vagas: 04</li>
-      <li>Carga horária requerida: 20 horas semanais, de segunda a
-sexta-feira, durante o período das 8h00 até as 18h00. (o horário do projeto deve ser EXCLUSIVO).</li>
-      <li>Valor da bolsa: R$ 800,00</li>
-    </ul>
-  </li>
-</ul>
+<p>Para mais informações sobre o edital e inscrições, visite o site oficial do laboratório AYTY.</p>
 
-<h2 id="pré-requisitos">Pré-requisitos</h2>
-
-<p><strong>Para alunos de SI e LCC:</strong></p>
-
-<ul>
-  <li>Não há restrição de período para concorrer às vagas, no entanto é
-desejável que você tenha conhecimento de programação Java e banco de
-dados.</li>
-  <li>Para esta seleção, [daremos preferência]{.underline} a alunos a
-partir do 6o período.</li>
-  <li>Ter 20 horas por semana disponíveis para participar do projeto.</li>
-  <li><strong>Gostar BASTANTE de programar.</strong></li>
-  <li>Para esta seleção é muito mais importante você gostar de aprender,
-ter iniciativa, responsabilidade e perseguir os objetivos do que
-saber previamente uma determinada tecnologia.</li>
-</ul>
-
-<h2 id="sobre-o-processo-seletivo">Sobre o processo seletivo</h2>
-
-<p>O processo será dividido em três etapas:</p>
-
-<ul>
-  <li>1a etapa: Preenchimento de um formulário e triagem dos alunos e
-  alunas.</li>
-  <li>2a etapa: Entrevistas com os alunos e alunas selecionado(a)s na 1a
-  etapa.</li>
-  <li>3a etapa: Avaliação técnica de um projeto, realizada pela equipe da empresa.</li>
-</ul>
-
-<p>Vamos levar em consideração a sua atuação fora de sala de aula, suas
-atividades em projetos, monitorias, e outras iniciativas. Também
-observaremos suas notas nas disciplinas e suas respostas às questões
-abertas. Na entrevista, observaremos sua desenvoltura pessoal, sua
-segurança ao responder às perguntas e ao discutir os diversos temas que
-serão tratados.</p>
-
-<h3 id="calendário">Calendário:</h3>
-
-<h2 id="xxx--yyy">XXX  YYY</h2>
-<p>AAA  BBB</p>
-
-<p>Data / horário                                    Atividade
-  ————————————————- —————————————————————-
-  24/Março até as 18h00                             Prazo pra inscrição no processo seletivo
-  <del>25/Março até as 18h00</del> 26/Março até as 12h00   Divulgação do resultado da 1a etapa e convite para entrevista.
-  28 e 29/Março** 16h às 18h**                  Entrevista com os candidatos que passaram da 1a etapa.
-  <del>31/Março</del> 02/Abril até as 18h00                Divulgação do resultado final da seleção
-  04/Abril                                          Início das atividades</p>
-
-<p>Qualquer dúvida sobre o projeto envie um email para o professor Rodrigo
-Rebouças (rodrigor@dcx.ufpb.br). No assunto informe: "Dúvida sobre
-seleção projeto ESIG/Quark".</p>
-
-<p>&lt;/col&gt;</p>
-
-<p>&lt;col sm="4"&gt;</p>
-
-<p><img src="/logo-ufpb.png" alt="" />{.align-center width=”200”}</p>
-
-<p><a href="http://www.dcx.ufpb.br"><img src="/logo-dcx.png" alt="" />{.align-center width=”200”}</a></p>
-
-<hr />
-
-<p><a href="https://esig.group/"><img src="/projetos/esig-quark/logo-esig-group.png" alt="" />{.align-center
-width=”200”}</a></p>
-
-<hr />
-
-<p><a href="https://www.esig.com.br/"><img src="/projetos/esig-quark/logo-esig.png" alt="" />{.align-center
-width=”200”}</a></p>
-
-<hr />
-
-<p><a href="http://quark.tec.br/"><img src="/projetos/esig-quark/logo-quark.png" alt="" />{.align-center
-width=”200”}</a></p>
-
-<hr />
-
-<p><a href="https://instagram.com/ayty.ufpb"><img src="/instagram.png" alt="" />{.align-center
-width=”200”}</a></p>
-
-<p>&lt;/col&gt; &lt;/grid&gt;</p>
-
-<p><img src="tag&gt;news ESIG QUARK edital selecao" alt="" /></p>]]></content><author><name></name></author><category term="edital" /><category term="esig" /><summary type="html"><![CDATA[Data: 22/05/2023]]></summary></entry></feed>
+<p>(gerado pelo ChatGPT)</p>]]></content><author><name></name></author><category term="edital" /><category term="esig" /><summary type="html"><![CDATA[Título: Aberto edital de seleção de bolsistas para parceria ESIG, Quark e AYTY]]></summary></entry></feed>
