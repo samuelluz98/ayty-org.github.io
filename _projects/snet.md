@@ -13,5 +13,5 @@ O projeto prevê a participação de estudantes que irão se capacitar e atuar e
 Serão ainda conduzidas pesquisas sobre a relação entre diversidade e tecnologia, com o objetivo de difundir esse conhecimento através de palestras, rodas de conversa e exibição de filmes.
 Uma terceira linha de pesquisa será a área de gerência de dívidas técnicas e arquitetura de software, com ações como entrevistas, coleta de dados, realização de grupos focais e treinamentos.
 
-* Coordenação do projeto: [Vanessa Dantas](/vanessa_dantas)
+* Coordenação do projeto: [Vanessa Dantas](/equipe/vanessa_dantas)
 
