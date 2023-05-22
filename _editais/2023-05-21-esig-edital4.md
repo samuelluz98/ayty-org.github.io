@@ -40,9 +40,8 @@ Conheça mais sobre as empresas através dos links: [ESIG
 Group](https://esig.group/#sobre), [ESIG](https://www.esig.com.br/),
 [Quark](https://quark.tec.br/).
 
-* Professor coordenador do projeto: [Prof. Rodrigo
+* Professor coordenação e orientação dos estudantes: [Prof. Marcus Carvalho](/equipe/marcuswac/) e [Prof. Rodrigo
 Rebouças](/equipe/rodrigor/)
-* Professor orientador dos estudantes: [Prof. Marcus Carvalho](/equipe/marcuswac/)
 
 ## Vagas, carga horária e valor de bolsa
 

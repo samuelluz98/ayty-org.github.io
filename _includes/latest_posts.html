@@ -12,8 +12,8 @@
               {% endif %}
               {% for item in latest_posts limit: latest_posts_limit %}
                 <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-                  <td>
+                  <th scope="row" style="width: fit-content;">{{ item.date | date: "%d/%m/%Y" }}</th>
+                  <td style="width: 100%;">
                     <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                   </td>
                 </tr>
