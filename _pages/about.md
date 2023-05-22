@@ -1,19 +1,11 @@
 ---
 layout: about
-title: Sobre
+title: Home
 permalink: /
 subtitle: Laboratório de Engenharia de Software Aplicada
 
-profile:
-  align: right
-  image: prof_pic.png
-  image_dark : prof_pic_dark.png
-  image_circular: false # crops the image to make it circular
-
-
-news: true  # includes a list of news items
+editais: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
