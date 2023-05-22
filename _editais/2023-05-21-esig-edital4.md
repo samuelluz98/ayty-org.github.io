@@ -59,7 +59,7 @@ Rebouças](/equipe/rodrigor/)
 -   Não há restrição de período para concorrer às vagas, no entanto é
     desejável que você tenha conhecimento de programação Java e banco de
     dados.
--   Para esta seleção, [daremos preferência]{.underline} a alunos a
+-   Para esta seleção, *daremos preferência* a alunos a
     partir do 6o período.
 -   Ter 20 horas por semana disponíveis para participar do projeto.
 -   **Gostar BASTANTE de programar.**
@@ -75,7 +75,7 @@ O processo será dividido em três etapas:
     alunas.
 - 2a etapa: Entrevistas com os alunos e alunas selecionado(a)s na 1a
     etapa.
-- 3a etapa: Avaliação técnica de um projeto, realizada pela equipe da empresa.
+- 3a etapa: Avaliação técnica de um projeto, realizada pela equipe da empresa. A descrição do projetinho será divulgada para o(a)s aluno(a)s que forem aprovados(as) na 2a etapa.
 
 Vamos levar em consideração a sua atuação fora de sala de aula, suas
 atividades em projetos, monitorias, e outras iniciativas. Também
