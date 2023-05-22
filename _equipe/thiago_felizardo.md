@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Thiago François Felizardo da Cruz
-img: assets\img\equipe\thiago_felizardo.jpg
+img: assets/img/equipe/thiago_felizardo.jpg
 funcao: bolsista dev
 projeto: Phoebus 
 desde: 06/04/2023

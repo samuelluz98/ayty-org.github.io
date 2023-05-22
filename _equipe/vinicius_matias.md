@@ -3,7 +3,7 @@ layout: member
 name: Vinicius Matias de Lima
 img: assets/img/equipe/vinicius-matias.jpg
 funcao: bolsista dev
-projeto: Universi.me
+projeto: universi.me
 desde: 05/10/2021
 saiu: Continua no Projeto
 description: Olaaá, meu nome é Vinicius Matias, sou aluno do curso ciência da computação - Licenciatura da UFPB, gosto muito de desenvolvimento e infraestrutura de rede. :)

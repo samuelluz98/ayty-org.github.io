@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 6
+title: editais
+nav: true
+nav_order: 2
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: ativos
+      permalink: /editais/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: encerrados
+      permalink: /editais_encerrados/
 ---

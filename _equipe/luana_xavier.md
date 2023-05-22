@@ -6,7 +6,7 @@ funcao: Bolsista Dev
 projeto: ESIG
 desde: 01/09/2021
 saiu: #data de fim
-description: descricao do aluno
+description: #
 home_page: # home page
 github: https://github.com/luanapontes
 linkedin: https://www.linkedin.com/in/luana-xavier-de-pontes-b50522212/
