@@ -1,13 +1,13 @@
 ---
 layout: page
-title: editais
+title: Editais
 nav: true
 nav_order: 2
 dropdown: true
 children: 
-    - title: ativos
+    - title: Ativos
       permalink: /editais/
     - title: divider
-    - title: encerrados
+    - title: Encerrados
       permalink: /editais_encerrados/
 ---
