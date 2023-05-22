@@ -502,6 +502,11 @@ footer.sticky-bottom {
 }
 .equipe .equipe_icon {
   padding-right: 5px;
+  font-size: 18px;
+}
+.equipe .member_icon {
+  font-size: 240px;
+  padding-right: 5px;
 }
 .equipe .card-title {
   font-size: 1.2rem;
