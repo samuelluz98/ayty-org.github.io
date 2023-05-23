@@ -17,6 +17,14 @@ let setTheme = (theme) =>  {
   if (theme) {
     document.documentElement.setAttribute("data-theme", theme);
 
+    const themeImage = document.getElementById("theme-image");
+
+    if (theme === "dark") {
+      themeImage.src = "assets/img/ayty-white-transp.png";
+    } else {
+      themeImage.src = "assets/img/ayty-black-transp.png";
+    }
+
     // Add class to tables.
     let tables = document.getElementsByTagName('table');
     for(let i = 0; i < tables.length; i++) {
@@ -78,15 +86,43 @@ let transTheme = () => {
 
 
 let initTheme = (theme) => {
+  const themeImage = document.getElementById("theme-image");
+
   if (theme == null || theme == 'null') {
-    const userPref = window.matchMedia;
-    if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
+    theme = localStorage.getItem("theme");
+    if (!theme) {
+      const userPref = window.matchMedia;
+      if (userPref && userPref('(prefers-color-scheme: light)').matches) {
+        theme = 'light';
+        
+      } else {
         theme = 'dark';
+      }
     }
   }
 
+  if (theme === 'dark') {
+    document.documentElement.setAttribute("data-theme", "dark");
+
+  } else {
+    document.documentElement.removeAttribute("data-theme");
+  }
+
+  localStorage.setItem("theme", theme);
   setTheme(theme);
+
+  const currentTheme = document.documentElement.getAttribute("data-theme");
+  if (currentTheme === 'dark') {
+    themeImage.src = "assets/img/ayty-white-transp.png";
+
+  } else {
+    themeImage.src = "assets/img/ayty-black-transp.png";
+  }
 }
+
+window.addEventListener("DOMContentLoaded", function() {
+  initTheme(localStorage.getItem("theme"));
+});
 
 
 initTheme(localStorage.getItem("theme"));
