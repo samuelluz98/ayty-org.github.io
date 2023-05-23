@@ -46,9 +46,9 @@ layout: default
 
           <div style="text-align: center;">
 
-              {% include figure.html path="assets/img/prof_pic.png" class="img-fluid" alt="AYTY Logo" -%}
-
-              {% include figure.html path="assets/img/logos/logo-dcx.png" class="img-fluid" width="70%" alt="DCX Logo" url="https://ufpb.br/dcx" -%}
+            <div id="image-container" data-theme="{{ site.enable_darkmode ? 'dark' : 'light' }}">
+              <img id="theme-image" src="assets/img/ayty-black-transp.png" alt="AYTY Logo" class="img-fluid">
+            </div>
 
               {% include figure.html path="assets/img/logos/logo-ufpb.png" class="img-fluid" width="45%" alt="UFPB Logo" url="https://ufpb.br/"-%}
           </div>
